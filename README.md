@@ -1,4 +1,4 @@
-# This Portfolio's Skeleton is from the template below, I have modified to fit my goals -
+# This Portfolio's Skeleton is from the template below, I have modified to fit my goals.
 
 # [Start Bootstrap - Agency](https://startbootstrap.com/theme/agency)
 
